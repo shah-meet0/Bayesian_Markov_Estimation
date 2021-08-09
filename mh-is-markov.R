@@ -1,7 +1,7 @@
 #R code for Assignment EBS2043
 #Authors:
-#Rebecca Walter, Student Number: i6186657
-#Meet Shah, Student Number: i6196781
+#Rebecca Walter
+#Meet Shah
 #This code needs the addition of truncated normal from the R library.
 library(truncnorm)
 
